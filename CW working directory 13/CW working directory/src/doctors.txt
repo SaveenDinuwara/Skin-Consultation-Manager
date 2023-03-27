@@ -1,0 +1,9 @@
+Suhas Chandrasekara 2004-01-01 0773657505 MED1649 Dental
+Sarith Wijesundara 2004-01-01 0723031200 MED2554 Gynocology
+Sandeep Abeykoon 2001-01-01 0786395561 MED9654 Dermatology
+Namindu Deshan 2005-01-01 0755951471 MED5645 Cardiology
+Kusal Perera 1999-01-01 0779563211 MED5246 Cardiology
+Dasun Shanaka 2000-01-01 0711112221 MED1111 Dental
+Madushanka Deraniyagala 2000-01-01 0723031201 MED2222 Dermatology
+Praveen Perera 2000-01-01 0713546118 MED0000 Dental
+Pansilu Wijesiru 2001-01-01 0713545115 MED010907 Dermatology
